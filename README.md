@@ -5,6 +5,8 @@
   - java programming
   - python scripting
   - Cybersecurity
+  - Cryptography
+  - Reverse Engineering
     
 - 🌱 I’m currently learning
   - C programming
