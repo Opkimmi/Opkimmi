@@ -9,7 +9,7 @@
 
 ## 🔐 About Me
 
-Cybersecurity student at **Western Norway University of Applied Sciences** with a passion for breaking things (legally) and understanding how systems work under the hood. Currently serving as **CTF-responsible** for [Helt Sikker](https://github.com/HeltSikker) — a student cybersecurity organization in Bergen, Norway.
+Cybersecurity student with a passion for breaking things (legally) and understanding how systems work under the hood. Currently serving as **CTF-responsible** for [Helt Sikker](https://github.com/HeltSikker) — a student cybersecurity organization in Bergen, Norway.
 
 ## 🏆 CTF Achievements
 
