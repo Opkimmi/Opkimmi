@@ -16,7 +16,7 @@ Cybersecurity student at **Western Norway University of Applied Sciences** with 
 | Competition | Team | Placement | Notes |
 |-------------|------|-----------|-------|
 | **Huntress CTF 2024** | Quorra | 🥇 148/6,951 teams | Top 2% — 57/65 challenges (87.7%) |
-| **EPT 2025** (Equinor) | Quorra | 🌍 16th Global | 🎓 4th in Student Division |
+| **EPT 2025** (Equinor) | Quorra | 🌍 16/100 Global | 🎓 4th in Student Division |
 
 ## 🛠️ Tech Stack
 
