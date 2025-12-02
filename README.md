@@ -1,29 +1,48 @@
-- 👋 Hi, I’m @Opkimmi
-  
-- 👀 I’m interested in
-  - C programming
-  - java programming
-  - python scripting
-  - Cybersecurity
-  - Cryptography
-  - Reverse Engineering
-    
-- 🌱 I’m currently learning
-  - C programming
-  - Cryptography
- 
-- 💞️ I’m looking to collaborate on
-  - Programming projects
-  - CTF's
-    
-- 📫 How to reach me
-  - LinkedIn @Kim Ystebø
-  - Discord @Kimy2887
-    
-- ⚡ Fun fact:
-  - 74% of account take over attacks start with phishing.
+# Hey there! 👋 I'm Kim
 
-<!---
-Opkimmi/Opkimmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Cybersecurity Student | CTF Enthusiast | Reverse Engineering**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kim_Ystebø-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kim-ystebø)
+[![Discord](https://img.shields.io/badge/Discord-Kimy2887-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+
+---
+
+## 🔐 About Me
+
+Cybersecurity student at **Western Norway University of Applied Sciences** with a passion for breaking things (legally) and understanding how systems work under the hood. Currently serving as **CTF-responsible** for [Helt Sikker](https://github.com/HeltSikker) — a student cybersecurity organization in Bergen, Norway.
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+## 🎯 Interests
+
+- 🔓 **Reverse Engineering** — Malware analysis, binary exploitation
+- 🔑 **Cryptography** — Breaking and building secure systems
+- 🚩 **CTF Competitions** — Pwn, crypto, forensics, and rev challenges
+- 🛡️ **Offensive Security** — Penetration testing, red teaming
+
+## 🌱 Currently Learning
+
+- Advanced C programming & memory exploitation
+- Cryptographic implementations and attacks
+- IoT/OT Security
+
+## 🤝 Let's Collaborate
+
+I'm always down to team up on **CTF competitions** or interesting **security research projects**. If you're into breaking stuff or building secure systems, let's connect!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Opkimmi&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+> ⚡ *Fun fact: 74% of account takeover attacks start with phishing.*
+
+</html>
