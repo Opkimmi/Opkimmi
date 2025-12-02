@@ -9,7 +9,14 @@
 
 ## 🔐 About Me
 
-Cybersecurity student, with a passion for breaking things (legally) and understanding how systems work under the hood. Currently serving as **CTF-responsible** for [Helt Sikker](https://github.com/HeltSikker) — a student cybersecurity organization in Bergen, Norway.
+Cybersecurity student at **Western Norway University of Applied Sciences** with a passion for breaking things (legally) and understanding how systems work under the hood. Currently serving as **CTF-responsible** for [Helt Sikker](https://github.com/HeltSikker) — a student cybersecurity organization in Bergen, Norway.
+
+## 🏆 CTF Achievements
+
+| Competition | Team | Placement | Notes |
+|-------------|------|-----------|-------|
+| **Huntress CTF 2024** | Quorra | 🥇 148/6,951 teams | Top 2% — 57/65 challenges (87.7%) |
+| **EPT 2025** (Equinor) | Quorra | 🌍 16th Global | 🎓 4th in Student Division |
 
 ## 🛠️ Tech Stack
 
@@ -37,12 +44,6 @@ Cybersecurity student, with a passion for breaking things (legally) and understa
 
 I'm always down to team up on **CTF competitions** or interesting **security research projects**. If you're into breaking stuff or building secure systems, let's connect!
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Opkimmi&show_icons=true&theme=tokyonight&hide_border=true)
-
 ---
 
 > ⚡ *Fun fact: 74% of account takeover attacks start with phishing.*
-
-</html>
