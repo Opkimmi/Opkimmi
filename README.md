@@ -15,7 +15,7 @@ Cybersecurity student with a passion for breaking things (legally) and understan
 
 | Competition | Team | Placement | Notes |
 |-------------|------|-----------|-------|
-| **Huntress CTF 2024** | Quorra | 🥇 148/6,951 teams | Top 2% — 57/65 challenges (87.7%) |
+| **Huntress CTF 2025** | Quorra | 🥇 148/6,951 teams | Top 2% — 57/65 challenges (87.7%) |
 | **EPT 2025** (Equinor) | Quorra | 🌍 16/100 Global | 🎓 4th in Student Division |
 
 ## 🛠️ Tech Stack
